@@ -1,0 +1,34 @@
+.headerIndex{
+    background-image: url( "../../img/headerbackground.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+background-attachment:fixed;
+height: 100vh;
+position: relative;
+}
+
+
+.oscurecerFondo{
+position: absolute;
+width: 100%;
+height: 100%;
+background-color:
+#000000ab
+}
+
+.flexBasico{
+    flex-direction:column;
+    
+}
+.botonesHeader{
+    border:none;
+    width: 8rem;
+    padding: .4rem 1rem;
+    
+
+}
+
+.contenedorBotones:hover{
+    transform: scale(1.2);
+
+}
